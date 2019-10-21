@@ -1,0 +1,5 @@
+entero = int(input("Entra un número entero: "))
+if entero%3==0:
+    print("Es divisible por 3")
+else:
+    print("No es divisible por 3")
